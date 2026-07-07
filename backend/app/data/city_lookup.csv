@@ -1,0 +1,618 @@
+city_name_new,state,loc,n
+new delhi,delhi,New Delhi G.P.O.,4969
+bangalore,karnataka,Bangalore City,4881
+pune,maharashtra,Pune City,4821
+gurgaon,haryana,Gurgaon,3235
+mumbai,maharashtra,Goregaon East,2856
+hyderabad,telangana,Hyderabad,1298
+noida,uttar pradesh,Noida,1214
+ahmedabad,gujarat,Ahmedabad,1206
+kolkata,west bengal,Kolkatta GPO,1159
+ghaziabad,uttar pradesh,Ghaziabad,940
+jaipur,rajasthan,Jaipur,937
+lucknow,uttar pradesh,Lucknow G.P.O.,920
+chennai,tamil nadu,Chennai GPO,879
+surat,gujarat,Surat,848
+chandigarh,chandigarh,Chandigarh,695
+dehradun,uttarakhand,Dehradun,690
+indore,madhya pradesh,Pune City,520
+vadodara,gujarat,Vadodara,439
+thane,maharashtra,thane west,378
+rajkot,gujarat,Pune City,309
+bhubaneswar,odisha,Pune City,305
+kanpur,uttar pradesh,Pune City,260
+patna,bihar,Pune City,232
+ludhiana,punjab,Pune City,196
+agra,uttar pradesh,Pune City,193
+bhopal,madhya pradesh,Pune City,189
+coimbatore,tamil nadu,gandhipuram,187
+faridabad,haryana,mathura road faridabad,179
+nagpur,maharashtra,Pune City,117
+kochi,kerala,matsyapuri,109
+nashik,maharashtra,Pune City,103
+navi mumbai,maharashtra,Pune City,66
+mira road,maharashtra,mira road s.o,52
+jodhpur,rajasthan,Pune City,44
+amritsar,punjab,Pune City,43
+aurangabad,maharashtra,Pune City,38
+allahabad,uttar pradesh,Pune City,30
+varanasi,uttar pradesh,Pune City,30
+visakhapatnam,andhra pradesh,Pune City,29
+raipur,chhattisgarh,Pune City,28
+jalandhar,punjab,Pune City,27
+udaipur,rajasthan,Pune City,27
+meerut,uttar pradesh,Pune City,27
+hisar,haryana,Pune City,26
+madurai,tamil nadu,madurai,25
+gorakhpur,uttar pradesh,Pune City,24
+greater noida,uttar pradesh,Pune City,24
+ujjain,madhya pradesh,ujjain chhota sarafa,24
+bareilly,uttar pradesh,Pune City,23
+jammu,jammu & kashmir,Pune City,23
+thrissur,kerala,Pune City,20
+pimpri chinchwad,maharashtra,pimpri chinchwad,20
+kota,rajasthan,Pune City,19
+karnal,haryana,Pune City,19
+jamnagar,gujarat,Pune City,19
+bokaro,jharkhand,alkusa,18
+panipat,haryana,Pune City,18
+jabalpur,madhya pradesh,Pune City,18
+sonipat,haryana,Pune City,17
+ranchi,jharkhand,Pune City,17
+gwalior,madhya pradesh,Pune City,16
+rudrapur,uttarakhand,Pune City,16
+tiruchirappalli,tamil nadu,tiruchirappalli,15
+srinagar,jammu & kashmir,Pune City,15
+rajahmundry,andhra pradesh,Pune City,15
+vijayawada,andhra pradesh,Pune City,14
+kottayam,kerala,ponkunnam,14
+thiruvananthapuram,kerala,Pune City,14
+anand,gujarat,Pune City,14
+mathura,uttar pradesh,Pune City,14
+rohtak,haryana,Pune City,13
+solapur,maharashtra,Pune City,12
+moradabad,uttar pradesh,Pune City,12
+mysore,karnataka,Pune City,12
+guwahati,assam,Pune City,12
+ambala,haryana,Pune City,12
+pondicherry,pondicherry,Pune City,12
+ranga reddy,telangana,Pune City,11
+vellore,tamil nadu,Pune City,11
+ahmednagar,maharashtra,Pune City,11
+haldwani,uttarakhand,Pune City,11
+hubli,karnataka,Pune City,11
+gandhidham,gujarat,Pune City,11
+aligarh,uttar pradesh,Pune City,11
+belgaum,karnataka,Pune City,11
+bharuch,gujarat,Pune City,11
+zirakpur,punjab,Pune City,10
+satna,madhya pradesh,Pune City,10
+bathinda,punjab,Pune City,10
+kolhapur,maharashtra,Pune City,10
+jhansi,uttar pradesh,Pune City,10
+guntur,andhra pradesh,Pune City,10
+palakkad,kerala,Pune City,10
+rewari,haryana,Pune City,10
+patiala,punjab,Pune City,10
+bijnor,uttar pradesh,Pune City,9
+mangalore,karnataka,Pune City,9
+mohali,punjab,Pune City,9
+jamshedpur,jharkhand,Pune City,9
+sirsa,haryana,Pune City,9
+siliguri,west bengal,Pune City,9
+bikaner,rajasthan,Pune City,9
+kollam,kerala,Pune City,9
+goa,goa,Pune City,9
+gandhinagar,gujarat,Pune City,9
+vasai,maharashtra,Pune City,9
+howrah,west bengal,Pune City,9
+dhanbad,jharkhand,Pune City,9
+firozabad,uttar pradesh,Pune City,9
+saharanpur (up),uttar pradesh,Pune City,9
+bilaspur,chhattisgarh,Pune City,9
+sikar,rajasthan,Pune City,9
+sahibabad,uttar pradesh,Pune City,9
+mehsana,gujarat,Pune City,8
+ajmer,rajasthan,Pune City,8
+yamuna nagar,haryana,Pune City,8
+balaghat,madhya pradesh,Pune City,8
+muzaffarpur,bihar,Pune City,8
+cuttack,odisha,Pune City,8
+gurdaspur,punjab,Pune City,8
+haridwar,uttarakhand,Pune City,8
+alwar,rajasthan,Pune City,7
+satara,maharashtra,Pune City,7
+morbi,gujarat,Pune City,7
+kurukshetra,haryana,Pune City,7
+firozpur,punjab,Pune City,7
+warangal,telangana,Pune City,7
+tirunelveli,tamil nadu,Pune City,7
+vapi,gujarat,Pune City,7
+gautam buddha nagar,uttar pradesh,Pune City,7
+durgapur,west bengal,Pune City,7
+junagadh,gujarat,Pune City,7
+nellore,andhra pradesh,Pune City,7
+jhunjhunu,rajasthan,Pune City,7
+ernakulam,kerala,Pune City,7
+hazaribagh,jharkhand,korrah,7
+bhavnagar,gujarat,Pune City,6
+shimoga,karnataka,Pune City,6
+panvel,maharashtra,Pune City,6
+karimnagar,telangana,Pune City,6
+kaithal,haryana,Pune City,6
+kachchh,gujarat,Pune City,6
+nanded,maharashtra,Pune City,6
+kozhikode,kerala,Pune City,6
+sri ganganagar,rajasthan,Pune City,6
+hanumangarh,rajasthan,Pune City,6
+gaya,bihar,Pune City,6
+rampur,uttar pradesh,Pune City,6
+amravati,maharashtra,Pune City,6
+virar,maharashtra,Pune City,6
+yavatmal,maharashtra,Pune City,6
+kurnool,andhra pradesh,Pune City,6
+tirupati,andhra pradesh,Pune City,6
+tiruppur,tamil nadu,Pune City,6
+barnala,punjab,Pune City,5
+azamgarh,uttar pradesh,Pune City,5
+asansol,west bengal,Pune City,5
+budaun,uttar pradesh,Pune City,5
+rupnagar,punjab,Pune City,5
+salem,tamil nadu,Pune City,5
+sangli,maharashtra,Pune City,5
+ratnagiri,maharashtra,Pune City,5
+bhiwani,haryana,Pune City,5
+bhilwara,rajasthan,Pune City,5
+chittorgarh,rajasthan,Pune City,5
+kapurthala,punjab,Pune City,5
+kalyan,maharashtra,Pune City,5
+shahdol,madhya pradesh,Pune City,5
+hosur,tamil nadu,perandapalli,5
+jhajjar,haryana,Pune City,5
+jalgaon,maharashtra,Pune City,5
+hospet,karnataka,Pune City,5
+pali,rajasthan,Pune City,5
+ongole,andhra pradesh,Pune City,5
+navsari,gujarat,Pune City,5
+nandurbar,maharashtra,Pune City,5
+kotdwara,uttarakhand,kotdwara,5
+kharar,punjab,Pune City,5
+solan,himachal pradesh,Pune City,5
+begusarai,bihar,Pune City,5
+bijapur,karnataka,Pune City,5
+nagaur,rajasthan,Pune City,5
+bharatpur,rajasthan,Pune City,5
+shahjahanpur,uttar pradesh,Pune City,4
+cuddalore,tamil nadu,sellankuppam,4
+bulandshahr,uttar pradesh,Pune City,4
+jagdalpur,chhattisgarh,Pune City,4
+jalna,maharashtra,Pune City,4
+kanchipuram,tamil nadu,Pune City,4
+sagar,madhya pradesh,Pune City,4
+dombivli,maharashtra,Pune City,4
+dibrugarh,assam,Pune City,4
+rewa,madhya pradesh,Pune City,4
+shimla,himachal pradesh,Pune City,4
+nizamabad,telangana,Pune City,4
+neemuch,madhya pradesh,Pune City,4
+palghar,maharashtra,Pune City,4
+bhagalpur,bihar,Pune City,4
+amreli,gujarat,Pune City,4
+latur,maharashtra,Pune City,4
+muzaffarnagar,uttar pradesh,Pune City,4
+khordha,odisha,Pune City,4
+korba,chhattisgarh,Pune City,4
+kharghar,maharashtra,Pune City,4
+bidar,karnataka,Pune City,4
+kanpur dehat,uttar pradesh,Pune City,4
+panchkula,haryana,Pune City,4
+davangere,karnataka,Pune City,4
+jhalawar,rajasthan,Pune City,4
+ballia,uttar pradesh,Pune City,4
+vashi,maharashtra,Pune City,4
+hoshiarpur,punjab,Pune City,4
+etawah,uttar pradesh,Pune City,4
+valsad,gujarat,Pune City,4
+erode,tamil nadu,Pune City,4
+deoghar,jharkhand,Pune City,4
+ghazipur,uttar pradesh,Pune City,4
+secunderabad,telangana,Pune City,4
+raebareli,uttar pradesh,Pune City,4
+lakhimpur kheri,uttar pradesh,Pune City,4
+hooghly,west bengal,Pune City,4
+udupi,karnataka,Pune City,3
+gulbarga,karnataka,Pune City,3
+hoshangabad,madhya pradesh,Pune City,3
+fazilka,punjab,Pune City,3
+dhule,maharashtra,Pune City,3
+purnia,bihar,Pune City,3
+hapur,uttar pradesh,Pune City,3
+hoskote,karnataka,Pune City,3
+ramanathapuram,tamil nadu,Pune City,3
+durg,chhattisgarh,Pune City,3
+ramanagara,karnataka,Pune City,3
+thanjavur,tamil nadu,Pune City,3
+tenali,andhra pradesh,Pune City,3
+barhalganj,uttar pradesh,Pune City,3
+kullu,himachal pradesh,Pune City,3
+bapatla,andhra pradesh,Pune City,3
+amb,himachal pradesh,Pune City,3
+malappuram,kerala,Pune City,3
+akola,maharashtra,Pune City,3
+mandsaur,madhya pradesh,Pune City,3
+mainpuri,uttar pradesh,Pune City,3
+mahendragarh,haryana,Pune City,3
+sonbhadra,uttar pradesh,Pune City,3
+kengeri,karnataka,Pune City,3
+motihari,bihar,Pune City,3
+miraj,maharashtra,Pune City,3
+nadia,west bengal,Pune City,3
+khamgaon,maharashtra,Pune City,3
+madhyamgram,west bengal,Pune City,3
+berhampur,odisha,Pune City,3
+banda,uttar pradesh,Pune City,3
+bardoli,gujarat,Pune City,3
+shillong,meghalaya,Pune City,3
+chhindwara,madhya pradesh,Pune City,3
+bhilai,chhattisgarh,Pune City,3
+kharagpur,west bengal,Pune City,3
+imphal,manipur,Pune City,3
+pathanamthitta,kerala,Pune City,3
+kakinada,andhra pradesh,Pune City,3
+jalore,rajasthan,Pune City,3
+kannur,kerala,Pune City,3
+itanagar,arunachal pradesh,Pune City,3
+jaunpur,uttar pradesh,Pune City,3
+dhar,madhya pradesh,nagda,3
+patan,gujarat,Pune City,3
+pilibhit,uttar pradesh,Pune City,3
+guna,madhya pradesh,Pune City,3
+darrang,assam,Pune City,3
+ambikapur,chhattisgarh,Pune City,3
+ankleshwar,gujarat,Pune City,3
+ratlam,madhya pradesh,Pune City,3
+faizabad,uttar pradesh,Pune City,3
+bhayandar,maharashtra,Pune City,3
+bhiwandi,maharashtra,Pune City,3
+bhiwadi,rajasthan,Pune City,3
+betul,madhya pradesh,Pune City,3
+surendranagar,gujarat,Pune City,2
+suri,west bengal,Pune City,2
+tilakwadi,karnataka,Pune City,2
+bavla,gujarat,Pune City,2
+baran,rajasthan,Pune City,2
+agartala,tripura,Pune City,2
+udham singh nagar,uttarakhand,Pune City,2
+sultanpur,uttar pradesh,Pune City,2
+darbhanga,bihar,Pune City,2
+daman,daman and diu,Pune City,2
+dahod,gujarat,Pune City,2
+angul,odisha,Pune City,2
+wagholi,maharashtra,Pune City,2
+amroha,uttar pradesh,Pune City,2
+anantapur,andhra pradesh,Pune City,2
+anantnag,jammu & kashmir,Pune City,2
+east singhbhum,jharkhand,Pune City,2
+fatehabad,haryana,Pune City,2
+ganjam,odisha,Pune City,2
+fatehpur,uttar pradesh,Pune City,2
+east sikkim,sikkim,Pune City,2
+bankura,west bengal,Pune City,2
+bardhaman,west bengal,Pune City,2
+west tripura,tripura,Pune City,2
+dewas,madhya pradesh,Pune City,2
+dimapur,nagaland,Pune City,2
+roorkee,uttarakhand,Pune City,2
+rourkela,odisha,Pune City,2
+safidon,haryana,Pune City,2
+seoni,madhya pradesh,Pune City,2
+rayagada,odisha,Pune City,2
+sawai madhopur,rajasthan,Pune City,2
+pudukkottai,tamil nadu,Pune City,2
+raiganj,west bengal,Pune City,2
+prakasam,andhra pradesh,Pune City,2
+pratapgarh,uttar pradesh,Pune City,2
+gonda,uttar pradesh,Pune City,2
+haldia,west bengal,Pune City,2
+east godavari,andhra pradesh,Pune City,2
+rajnandgaon,chhattisgarh,Pune City,2
+karad,maharashtra,Pune City,2
+kalol,gujarat,Pune City,2
+kalyani,west bengal,Pune City,2
+kamrup,assam,Pune City,2
+dharuhera,haryana,Pune City,2
+jehanabad,bihar,Pune City,2
+porbandar,gujarat,Pune City,2
+dharmapuri,tamil nadu,Pune City,2
+palwal,haryana,Pune City,2
+parbhani,maharashtra,Pune City,2
+paonta sahib,himachal pradesh,Pune City,2
+pehowa,haryana,Pune City,2
+jalalabad,punjab,Pune City,2
+kangra,himachal pradesh,Pune City,2
+shirdi,maharashtra,Pune City,2
+silvassa,dadra and nagar haveli,Pune City,2
+padra,gujarat,Pune City,2
+orai,uttar pradesh,Pune City,2
+boisar,maharashtra,Pune City,2
+chandausi,uttar pradesh,Pune City,2
+byasanagar,odisha,Pune City,2
+buldhana,maharashtra,Pune City,2
+chikmagalur,karnataka,Pune City,2
+churu,rajasthan,Pune City,2
+shamli,uttar pradesh,Pune City,2
+sheopur,madhya pradesh,Pune City,2
+jind,haryana,Pune City,2
+jorhat,assam,Pune City,2
+sitapur,uttar pradesh,Pune City,2
+singrauli,madhya pradesh,Pune City,2
+khammam,telangana,Pune City,2
+palanpur,gujarat,Pune City,2
+bhuj,gujarat,Pune City,2
+bahadurgarh,haryana,Pune City,2
+bahraich,uttar pradesh,Pune City,2
+narsapur,andhra pradesh,Pune City,2
+nainital,uttarakhand,Pune City,2
+mirzapur,uttar pradesh,Pune City,2
+belthangady,karnataka,Pune City,2
+bellary,karnataka,Pune City,2
+manesar,haryana,Pune City,2
+medak district,telangana,Pune City,2
+malout,punjab,Pune City,2
+agar malwa,madhya pradesh,Pune City,2
+adilabad,telangana,Pune City,2
+alipurduar,west bengal,Pune City,2
+abu road,rajasthan,Pune City,2
+abohar,punjab,Pune City,2
+alappuzha,kerala,Pune City,1
+almora,uttarakhand,Pune City,1
+ambedkar nagar,uttar pradesh,Pune City,1
+ambegaon,maharashtra,Pune City,1
+amethi,uttar pradesh,Pune City,1
+anekal,karnataka,Pune City,1
+anuppur,madhya pradesh,Pune City,1
+araria,bihar,Pune City,1
+ashoknagar,madhya pradesh,Pune City,1
+athani,karnataka,Pune City,1
+auraiya,uttar pradesh,Pune City,1
+ayodhya,uttar pradesh,Pune City,1
+umbergaon,gujarat,Pune City,1
+una,himachal pradesh,Pune City,1
+uttara kannada,karnataka,Pune City,1
+vaijnath,maharashtra,Pune City,1
+vaishali,bihar,Pune City,1
+veraval,gujarat,Pune City,1
+verna,goa,Pune City,1
+vidisha,madhya pradesh,Pune City,1
+vijapur,gujarat,Pune City,1
+viluppuram,tamil nadu,Pune City,1
+visnagar,gujarat,Pune City,1
+vizianagaram,andhra pradesh,Pune City,1
+wardha,maharashtra,Pune City,1
+west godavari,andhra pradesh,Pune City,1
+west kameng,arunachal pradesh,Pune City,1
+zamania,uttar pradesh,Pune City,1
+krishnagiri,tamil nadu,Pune City,1
+kushalanagar,karnataka,Pune City,1
+lakhisarai,bihar,Pune City,1
+lalitpur,uttar pradesh,Pune City,1
+lower subansiri,arunachal pradesh,Pune City,1
+machilipatnam,andhra pradesh,Pune City,1
+madanganj,rajasthan,Pune City,1
+madhepura,bihar,Pune City,1
+madhubani,bihar,Pune City,1
+maharajganj,uttar pradesh,Pune City,1
+mahbubnagar,telangana,Pune City,1
+mahoba,uttar pradesh,Pune City,1
+maldah,west bengal,Pune City,1
+malkangiri,odisha,Pune City,1
+mancherial,telangana,Pune City,1
+mandi,himachal pradesh,Pune City,1
+mandi gobindgarh,punjab,Pune City,1
+mandya,karnataka,Pune City,1
+margao,goa,Pune City,1
+mau,uttar pradesh,Pune City,1
+meham,haryana,Pune City,1
+modinagar,uttar pradesh,Pune City,1
+moga,punjab,Pune City,1
+murshidabad,west bengal,Pune City,1
+murthal,haryana,Pune City,1
+nabarangpur,odisha,Pune City,1
+nabha,punjab,Pune City,1
+nadiad,gujarat,Pune City,1
+nagole,telangana,Pune City,1
+nahan,himachal pradesh,Pune City,1
+katihar,bihar,Pune City,1
+katni,madhya pradesh,Pune City,1
+kekri,rajasthan,Pune City,1
+kelambakkam,tamil nadu,Pune City,1
+kendrapara,odisha,Pune City,1
+khair,uttar pradesh,Pune City,1
+kheda,gujarat,Pune City,1
+khopoli,maharashtra,Pune City,1
+kokrajhar,assam,Pune City,1
+kolar,karnataka,Pune City,1
+koppal,karnataka,Pune City,1
+koraput,odisha,Pune City,1
+koriya,chhattisgarh,Pune City,1
+kotagiri,tamil nadu,Pune City,1
+kotma,madhya pradesh,Pune City,1
+krishna,andhra pradesh,Pune City,1
+nalanda,bihar,Pune City,1
+nangal,punjab,Pune City,1
+narsinghpur,madhya pradesh,Pune City,1
+narwana,haryana,Pune City,1
+nasirabad,rajasthan,Pune City,1
+neem-ka-thana,rajasthan,Pune City,1
+neemrana,rajasthan,Pune City,1
+nimbahera,rajasthan,nimbahera,1
+nohar,rajasthan,Pune City,1
+nuh,haryana,Pune City,1
+nuzvid,andhra pradesh,Pune City,1
+padrauna,uttar pradesh,Pune City,1
+pala,kerala,kummil,1
+palamu,jharkhand,Pune City,1
+kadapa,andhra pradesh,Pune City,1
+kadiri,andhra pradesh,Pune City,1
+kalahandi,odisha,Pune City,1
+kanjirappally,kerala,Pune City,1
+kannauj,uttar pradesh,Pune City,1
+karaikal,pondicherry,Pune City,1
+karauli,rajasthan,Pune City,1
+karkala,karnataka,Pune City,1
+karur,tamil nadu,Pune City,1
+karwar,karnataka,Pune City,1
+kathua,jammu & kashmir,Pune City,1
+ibrahimpatnam,telangana,Pune City,1
+ichalkaranji,maharashtra,Pune City,1
+jagadhri,haryana,Pune City,1
+jalpaiguri,west bengal,Pune City,1
+jam jodhpur,gujarat,Pune City,1
+jangaon,telangana,Pune City,1
+jashpur,chhattisgarh,Pune City,1
+jharsuguda,odisha,Pune City,1
+panaji,goa,Pune City,1
+panchmahal,gujarat,Pune City,1
+pandharpur,maharashtra,Pune City,1
+panna,madhya pradesh,Pune City,1
+paratwada,maharashtra,Pune City,1
+parvathipuram,andhra pradesh,Pune City,1
+paschim medinipur,west bengal,Pune City,1
+pathankot,punjab,Pune City,1
+perambalur,tamil nadu,Pune City,1
+perumbavoor,kerala,Pune City,1
+phaltan,maharashtra,Pune City,1
+pithoragarh,uttarakhand,Pune City,1
+pohir,punjab,Pune City,1
+ponda,goa,Pune City,1
+poonamallee,tamil nadu,Pune City,1
+poonch,jammu & kashmir,Pune City,1
+gopalganj,bihar,Pune City,1
+guruvayoor,kerala,Pune City,1
+hajipur,bihar,Pune City,1
+hamirpur(hp),himachal pradesh,Pune City,1
+hamirpur(up),uttar pradesh,Pune City,1
+hansi,haryana,Pune City,1
+hardoi,uttar pradesh,Pune City,1
+harur,tamil nadu,Pune City,1
+hassan,karnataka,Pune City,1
+hathras,uttar pradesh,Pune City,1
+hingoli,maharashtra,Pune City,1
+pulwama,jammu & kashmir,Pune City,1
+puri,odisha,Pune City,1
+purulia,west bengal,Pune City,1
+puttur,karnataka,Pune City,1
+raichur,karnataka,Pune City,1
+raigad,maharashtra,Pune City,1
+raigarh,chhattisgarh,Pune City,1
+rajim,chhattisgarh,Pune City,1
+rajpura,punjab,Pune City,1
+rajsamand,rajasthan,Pune City,1
+ramachandrapuram,andhra pradesh,Pune City,1
+ranaghat,west bengal,Pune City,1
+ranni,kerala,kalluvathukkal,1
+rawatbhata,rajasthan,Pune City,1
+duliajan,assam,Pune City,1
+ellenabad,haryana,Pune City,1
+gadag,karnataka,Pune City,1
+gadchiroli,maharashtra,Pune City,1
+gajraula,uttar pradesh,Pune City,1
+gangapur city,rajasthan,Pune City,1
+goalpara,assam,Pune City,1
+gohana,haryana,Pune City,1
+gokak,karnataka,Pune City,1
+dadri,uttar pradesh,Pune City,1
+dahanu,maharashtra,Pune City,1
+dalkhola,west bengal,Pune City,1
+dargamitta,andhra pradesh,Pune City,1
+darjeeling,west bengal,Pune City,1
+dasuya,punjab,Pune City,1
+dausa,rajasthan,Pune City,1
+deoria,uttar pradesh,Pune City,1
+dera bassi,punjab,Pune City,1
+dhampur,uttar pradesh,Pune City,1
+dharamshala,himachal pradesh,Pune City,1
+dharmavaram,andhra pradesh,Pune City,1
+dharwad,karnataka,Pune City,1
+dhrangadhra,gujarat,Pune City,1
+dindigul,tamil nadu,Pune City,1
+doda,jammu & kashmir,Pune City,1
+rishikesh,uttarakhand,Pune City,1
+sabarkantha,gujarat,Pune City,1
+sadabad,uttar pradesh,Pune City,1
+saharsa,bihar,Pune City,1
+samastipur,bihar,Pune City,1
+sampla,haryana,Pune City,1
+samrala,punjab,Pune City,1
+sangrur,punjab,Pune City,1
+sant kabir nagar,uttar pradesh,Pune City,1
+sasaram,bihar,Pune City,1
+sattenapalli,andhra pradesh,Pune City,1
+shahad,maharashtra,Pune City,1
+shahbad,haryana,Pune City,1
+bodeli,gujarat,Pune City,1
+brahmapuri,maharashtra,Pune City,1
+budgam,jammu & kashmir,Pune City,1
+chalakudy,kerala,Pune City,1
+chandauli,uttar pradesh,Pune City,1
+chandrapur,maharashtra,Pune City,1
+charkhi dadri,haryana,Pune City,1
+chattarpur,madhya pradesh,Pune City,1
+chengalpattu,tamil nadu,Pune City,1
+chitradurga,karnataka,Pune City,1
+chitrakoot,uttar pradesh,Pune City,1
+chittoor,andhra pradesh,Pune City,1
+chomu,rajasthan,Pune City,1
+cooch behar,west bengal,Pune City,1
+sheikhpura,bihar,Pune City,1
+sheohar,bihar,Pune City,1
+shikohabad,uttar pradesh,Pune City,1
+siddipet,telangana,Pune City,1
+silchar,assam,Pune City,1
+sindhanur,karnataka,Pune City,1
+sinnar,maharashtra,Pune City,1
+sivaganga,tamil nadu,Pune City,1
+sivasagar,assam,Pune City,1
+siwan,bihar,Pune City,1
+sohna,haryana,Pune City,1
+south 24 parganas,west bengal,Pune City,1
+sri muktsar sahib,punjab,Pune City,1
+beawar,rajasthan,Pune City,1
+beed,maharashtra,Pune City,1
+behror,rajasthan,Pune City,1
+bhadohi,uttar pradesh,Pune City,1
+bhadrak,odisha,Pune City,1
+bhawanipatna,odisha,Pune City,1
+bhind,madhya pradesh,Pune City,1
+bhojpur,bihar,Pune City,1
+biaora,madhya pradesh,Pune City,1
+bihar sharif,bihar,Pune City,1
+badlapur,maharashtra,Pune City,1
+bagaha,bihar,bagaha,1
+baghpat,uttar pradesh,Pune City,1
+bagru,rajasthan,Pune City,1
+baharagora,jharkhand,Pune City,1
+balasore,odisha,Pune City,1
+ballabhgarh,haryana,Pune City,1
+balrampur,uttar pradesh,Pune City,1
+banaskantha,gujarat,Pune City,1
+bandipora,jammu & kashmir,Pune City,1
+banga,punjab,Pune City,1
+barabanki,uttar pradesh,Pune City,1
+barwala,gujarat,Pune City,1
+barwani,madhya pradesh,Pune City,1
+bastar,chhattisgarh,Pune City,1
+batala,punjab,Pune City,1
+srikalahasti,andhra pradesh,Pune City,1
+sundergarh,odisha,Pune City,1
+surajpur,chhattisgarh,Pune City,1
+tapi,gujarat,Pune City,1
+tarn taran,punjab,Pune City,1
+thiruvalla,kerala,tiruvalla,1
+thoothukudi,tamil nadu,Pune City,1
+tiruchengode,tamil nadu,Pune City,1
+tiruvallur,tamil nadu,Pune City,1
+tumkur,karnataka,Pune City,1
+tura,meghalaya,Pune City,1
+udhampur,jammu & kashmir,Pune City,1
+ulhasnagar,maharashtra,Pune City,1
