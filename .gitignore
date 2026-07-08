@@ -1,2 +1,14 @@
+# Raw and processed data (large, not needed for deployment)
 data/raw/
+data/processed/
+
+# Top-level model directory is a scratch copy from training;
+# only backend/app/model/*.pkl is actually deployed
 models/*.pkl
+
+# Python / notebook cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
